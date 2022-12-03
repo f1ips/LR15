@@ -8,16 +8,16 @@
 
 ![РИСУНОК](https://gspics.org/images/2022/12/03/0XeFCO.png)  
 
-Рисунок 12.1 - Inspector спрайта
+Рисунок 15.1 - Inspector спрайта
 
 ![РИСУНОК](https://gspics.org/images/2022/12/03/0XeLn3.png)  
 
-Рисунок 12.2 - Sprite Editor
+Рисунок 15.2 - Sprite Editor
 
 ![РИСУНОК](https://gspics.org/images/2022/12/03/0XeV0y.png)  
 
-Рисунок 12.3 - Окно Tile Palettes
+Рисунок 15.3 - Окно Tile Palettes
 
 ![РИСУНОК](https://gspics.org/images/2022/12/03/0XeiQD.png)  
 
-Рисунок 12.4 - Окно Scene
+Рисунок 15.4 - Окно Scene
